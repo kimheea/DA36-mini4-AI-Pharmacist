@@ -280,7 +280,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+hanhee_rag/.env
 .venv
 env/
 venv/
