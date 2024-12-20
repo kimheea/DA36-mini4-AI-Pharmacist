@@ -1,4 +1,4 @@
-# DA36-mini4-app1
+# DA36-mini4-ai-phamcist
 ## LLM - RAG chatbot Project
 ### 김해빈-김희애-조한희
 
