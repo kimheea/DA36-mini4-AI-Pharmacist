@@ -6,5 +6,5 @@ from io import BytesIO
 
 
 # 제목과 설명
-st.title("💊AI Medicine💊")
+st.title("💊AI Pharmacist💊")
 st.write("약 복용 고민을 작성하면 AI 약사가 상담을 해드립니다 ☺️")
